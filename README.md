@@ -8,7 +8,7 @@
 * [Quake and Half-Life MIME types](https://github.com/FreeSlave/qhl-mimetypes) - MIME types descriptions for resource files of Half-Life and Quake games series. Useful in freedesktop environments.
 * [Game watcher](https://github.com/FreeSlave/gamewatcher) - query server information for various games (Quake, GoldSource and Source games), with simple web interface. 
 
-#### Freedesktop specifications implementations in D:
+#### Freedesktop specifications implementations in D programming language:
 
 * [Desktop base directories](https://github.com/FreeSlave/xdgpaths) - base directories in the file system.
 * [Desktop entries](https://github.com/FreeSlave/desktopfile) - parsing and launching .desktop files.
@@ -17,7 +17,7 @@
 * [Trashcan](https://github.com/FreeSlave/trashcan) - putting files to trashcan and listing trashcan contents. Also available for Windows.
 * [MIME Applications specification](https://github.com/FreeSlave/mimeapps) - associations between applications and MIME types.
 
-#### Other useful libraries written in D:
+#### Other useful libraries written in D programming language:
 
 * [Findexecutable](https://github.com/FreeSlave/findexecutable) - finding executables in system paths.
 * [Mofile](https://github.com/FreeSlave/mofile) - parsing GNU gettext .mo files in D with permissive license.
