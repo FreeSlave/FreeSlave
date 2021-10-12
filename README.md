@@ -4,7 +4,7 @@
 
 * [Modbase](https://github.com/FreeSlave/hlsdk-xash3d) - my improvements and additions to Half-Life source code. A lot of Opposing Force, SoHL and Sven Co-op features implemented. Could be used as a base for a Half-Life modifcation.
 * [def2fgd](https://github.com/FreeSlave/def2fgd) - automatic convertion of GtkRadiant .def and Netradiant .ent files to JACK .fgd.
-* [Sprite image plugin for Qt](https://github.com/FreeSlave/qt-sprite-image-plugin) - plugin for Qt and KDE to load Half-Life sprites as images. Allows easy viewing of Half-Life sprites in Gwenview.
+* [Qt image plugin for Half-Life .spr](https://github.com/FreeSlave/qt-sprite-image-plugin) - plugin for Qt and KDE to load Half-Life sprites as images. Allows easy viewing of Half-Life sprites in Gwenview.
 * [Quake and Half-Life MIME types](https://github.com/FreeSlave/qhl-mimetypes) - MIME types descriptions for resource files of Half-Life and Quake games series. Useful in freedesktop environments.
 * [Game watcher](https://github.com/FreeSlave/gamewatcher) - query server information for various games (Quake, GoldSource and Source games), with simple web interface. 
 
