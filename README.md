@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-#### Half-Life related stuff:
+#### Half-Life related projects:
 
 * [Modbase](https://github.com/FreeSlave/hlsdk-xash3d) - my improvements and additions to Half-Life source code. Could be used as a base for a Half-Life modifcation.
 * [def2fgd](https://github.com/FreeSlave/def2fgd) - automatic convertion of GtkRadiant .def and Netradiant .ent files to JACK .fgd.
-* [Sprite image plugin for Qt](https://github.com/FreeSlave/qt-sprite-image-plugin) - plugin for Qt and KDE to load Half-Life sprites as images. Easy viewing of Half-Life sprites in Gwenview.
-* [Quake and Half-Life MIME types](https://github.com/FreeSlave/qhl-mimetypes) - MIME types descriptions for resource files of Half-Life and Quake games series.
+* [Sprite image plugin for Qt](https://github.com/FreeSlave/qt-sprite-image-plugin) - plugin for Qt and KDE to load Half-Life sprites as images. Allows easy viewing of Half-Life sprites in Gwenview.
+* [Quake and Half-Life MIME types](https://github.com/FreeSlave/qhl-mimetypes) - MIME types descriptions for resource files of Half-Life and Quake games series. Useful in freedesktop environments.
 * [Game watcher](https://github.com/FreeSlave/gamewatcher) - query server information for various games (Quake, GoldSource and Source games), with simple web interface. 
 
 #### Freedesktop specifications implementations in D:
 
 * [Desktop base directories](https://github.com/FreeSlave/xdgpaths) - base directories in the file system.
-* [Desktop entries](https://github.com/FreeSlave/desktopfile) - everything related to .desktop files.
+* [Desktop entries](https://github.com/FreeSlave/desktopfile) - parsing and launching .desktop files.
 * [Icon themes](https://github.com/FreeSlave/icontheme) - parsing icon themes and finding icons locations.
 * [Shared MIME database](https://github.com/FreeSlave/mime) - parsing MIME database.
 * [Trashcan](https://github.com/FreeSlave/trashcan) - putting files to trashcan and listing trashcan contents. Also available for Windows.
