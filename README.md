@@ -1,6 +1,6 @@
 ### Half-Life related projects:
 
-* [Half-Life Featureful](https://github.com/FreeSlave/halflife-featureful) - my improvements and additions to Half-Life SDK. A lot of Opposing Force, SoHL and Sven Co-op features implemented. Can be used as a base for a Half-Life modifcation.
+* [Half-Life Featureful](https://github.com/FreeSlave/halflife-featureful) - my improvements and additions to Half-Life SDK. A lot of Opposing Force, SoHL and Sven Co-op features implemented. Can be used as a base for a Half-Life modification.
 * [def2fgd](https://github.com/FreeSlave/def2fgd) - automatic convertion of GtkRadiant .def and Netradiant .ent files to JACK .fgd.
 * [Qt image plugin for Half-Life .spr](https://github.com/FreeSlave/qt-sprite-image-plugin) - plugin for Qt and KDE to load Half-Life sprites as images. Allows easy viewing of Half-Life sprites in Gwenview.
 * [Quake and Half-Life MIME types](https://github.com/FreeSlave/qhl-mimetypes) - MIME types descriptions for resource files of Half-Life and Quake games series. Useful in freedesktop environments.
