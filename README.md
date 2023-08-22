@@ -4,7 +4,8 @@
 * [def2fgd](https://github.com/FreeSlave/def2fgd) - automatic convertion of GtkRadiant .def and Netradiant .ent files to JACK .fgd.
 * [Qt image plugin for Half-Life .spr](https://github.com/FreeSlave/qt-sprite-image-plugin) - plugin for Qt and KDE to load Half-Life sprites as images. Allows easy viewing of Half-Life sprites in Gwenview.
 * [Quake and Half-Life MIME types](https://github.com/FreeSlave/qhl-mimetypes) - MIME types descriptions for resource files of Half-Life and Quake games series. Useful in freedesktop environments.
-* [Game watcher](https://github.com/FreeSlave/gamewatcher) - query server information for various games (Quake, GoldSource and Source games), with simple web interface. 
+* [Game watcher](https://github.com/FreeSlave/gamewatcher) - query server information for various games (Quake, GoldSource and Source games), with simple web interface.
+* [hlbmpwatcher](https://github.com/FreeSlave/hlbmpwatcher) - watch new screenshots in Half-Life and automatically convert them to PNG.
 
 ### Freedesktop specifications implementations in D programming language:
 
