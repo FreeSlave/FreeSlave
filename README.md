@@ -1,4 +1,4 @@
-### Half-Life related projects:
+### Half-Life and Quake related projects:
 
 * [Half-Life Featureful](https://github.com/FreeSlave/halflife-featureful) - my improvements and additions to Half-Life SDK. A lot of Opposing Force, SoHL and Sven Co-op features implemented. Can be used as a base for a Half-Life modification.
 * [def2fgd](https://github.com/FreeSlave/def2fgd) - convert GtkRadiant .def and Netradiant .ent files to JACK .fgd.
